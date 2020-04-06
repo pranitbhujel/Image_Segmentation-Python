@@ -1,6 +1,6 @@
 # Image_Segmentation-Python
 
-Estimating coin values using Image Segmentation in Python. Image Segementation is one of the hot areas in Computer Vision, and this is a small replication of how it can be used to estimate the coin vales.
+Estimating coin values using Image Segmentation in Python. Image Segementation is one of the hot areas in Computer Vision, and this is a small replication of how it can be used to estimate the coin values.
 
 The program is not 100% perfect, and is subjected to the parameter values you tweak. So explore and try removing the minor fallacies that it has.
 
